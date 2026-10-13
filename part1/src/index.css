@@ -1,0 +1,26 @@
+:root{
+  background-color: bisque;
+}
+
+.contenido{
+  width: -webkit-fill-available;
+}
+
+.bar{
+    width: -webkit-fill-available;
+    height: 30px;
+    background: #ffc82b;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
+}
+
+.titulo{
+  font-family: emoji;
+}
+
+.contenedorImagen{
+  text-align: center;
+}
