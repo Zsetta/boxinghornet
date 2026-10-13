@@ -24,3 +24,7 @@
 .contenedorImagen{
   text-align: center;
 }
+
+.logo{
+  width: -webkit-fill-available;
+}

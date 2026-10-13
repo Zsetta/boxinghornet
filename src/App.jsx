@@ -8,7 +8,7 @@ const App = () => {
         <h1 className='titulo'>Bienvenido a boxinghornet</h1>
       </div>
       <div className='contenedorImagen'>
-        <img src={logo}/>
+        <img className='logo' src={logo}/>
       </div>
       <p>Que onda andres</p>
     </div>
