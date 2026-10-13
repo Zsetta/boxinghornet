@@ -10,7 +10,7 @@ const App = () => {
       <div className='contenedorImagen'>
         <img src={logo}/>
       </div>
-      <p>Anto sos una wachina</p>
+      <p>Que onda andres</p>
     </div>
   );
 }
