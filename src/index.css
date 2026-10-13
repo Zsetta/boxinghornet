@@ -8,7 +8,6 @@
 
 .bar{
     width: -webkit-fill-available;
-    height: 30px;
     background: #ffc82b;
     text-align: center;
     display: inline-flex;
@@ -19,6 +18,7 @@
 
 .titulo{
   font-family: emoji;
+  font-size: larger;
 }
 
 .contenedorImagen{
